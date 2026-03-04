@@ -1,2 +1,10 @@
-# ctf-writeups
-CTF and cybersecurity challenge writeups from competitions, HackTheBox, TryHackMe, and other platforms.
+# CTF Writeups
+
+This repository contains my personal notes and solutions for various cybersecurity challenges and labs.
+
+Platforms included:
+- CTF competitions
+- HackTheBox
+- TryHackMe
+- picoCTF
+- Root-Me
